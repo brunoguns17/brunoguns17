@@ -29,6 +29,6 @@
   <a href="https://www.youtube.com/channel/UCk6mKWNocam2_QR5oQ7AxHA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  <a href="https://www.instagram.com/brunoguns17/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>    <a href="https://www.linkedin.com/in/bruno-gustavo-7b656a1b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
- 
+ ![Snake animation](https://github.com/brunoguns17/brunoguns17/blob/output/github-contribution-grid-snake.svg)
  
 </div>

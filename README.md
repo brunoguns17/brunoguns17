@@ -1,4 +1,4 @@
-animação do snke parou no meu github:  ## Olá!👋 Eu sou o Bruno Gustavo
+ ## Olá!👋 Eu sou o Bruno Gustavo
  Acadêmico em Engenharia de Software - UFC | Russas-ce
 <div align="center">
   <a href="https://github.com/brunoguns17">
